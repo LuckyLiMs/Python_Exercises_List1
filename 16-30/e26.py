@@ -1,4 +1,5 @@
 # Lucas dos Santos Siqueira
+# Fiz a maioria dos meus códigos em inglês para já ir praticando o uso dessa segunda linguagem que nessa área é muito mais importante que português nesse caso.
 # 26 - Crie uma lista de strings. Use um laço for para remover todas as strings que contêm a letra 'a'.
 
 # starWars = ["Star Wars", "New Hope", "Empire Strickes Back", "Return of the Jedi", "Phantom Menace", "Clone Wars", "Revenge of the Sith"]
@@ -47,4 +48,5 @@ def removeA(strings):
     return strings
 
 print(f"Lista com os nomes completos: \n{starWars}\nLista com os nomes sem a letra 'A'\n{removeA(starWars)}")
+
 # Lucas dos Santos Siqueira
