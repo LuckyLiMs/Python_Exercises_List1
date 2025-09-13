@@ -1,9 +1,10 @@
-# 1- Crie uma lista com 5 nomes de cidades e use um laço for para imprimir cada nome.
-cities = ["Cachoeira", "Canas", "Lorena", "Guaratinguetá", "Aparecida"]
+# Feito por Flávio Luis 
 
-def impress(cities):
-    for city in cities:
-        print(f"{city}\n")
 
-print(f"Nomes de 5 cidades da região do Vale do Paraíba: \n")
-impress(cities)
+# Crie uma lista com 5 nomes de cidades e use um laço for para imprimir cada nome.
+
+
+cidades = ["São Paulo", "Curitiba", "Rio de Janeiro", "Taubaté", "Lorena"]
+
+for item in cidades:
+    print(item)
